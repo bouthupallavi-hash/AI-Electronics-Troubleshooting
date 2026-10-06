@@ -1,0 +1,24 @@
+Electronics Troubleshooting Guide
+LED Does Not Turn On
+Possible causes: incorrect LED polarity, missing or incorrect resistor, disconnected power supply, or incorrect
+wiring. Troubleshooting: check the power supply, verify LED polarity, inspect the series resistor, and check
+the wiring.
+Resistor Becomes Hot
+Possible causes: excessive current, incorrect resistor value, insufficient power rating, or a short circuit.
+Troubleshooting: disconnect power when appropriate, verify the resistor value, check the circuit connections,
+and compare the expected circuit operation with the design.
+Circuit Does Not Turn On
+Possible causes: disconnected power, discharged battery, open fuse, loose connection, or a short circuit.
+Troubleshooting: check the power source, switch, wiring, connectors, and fuse.
+Diode Circuit Problem
+Possible causes: reversed polarity, incorrect diode type, damaged diode, or incorrect wiring. Troubleshooting:
+disconnect power, verify diode orientation and type, inspect connections, and use an appropriate multimeter
+test if available.
+Transistor Circuit Problem
+Possible causes: incorrect pin connections, incorrect biasing, wrong transistor type, or damaged transistor.
+Troubleshooting: verify the part number and pin configuration using the datasheet, inspect surrounding
+components, and check the supply.
+Safety
+Disconnect power before modifying a circuit when appropriate. Do not work on exposed mains-voltage or
+high-voltage circuits without proper training and supervision. If dangerous voltage, smoke, burning
+components, or hazardous conditions are involved, stop troubleshooting and contact a qualified technician
